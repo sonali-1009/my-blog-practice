@@ -16,3 +16,4 @@ body {
   background-color: #2980b9;
 }
 .footer-widget { padding: 20px; }
+.footer-widget h3 { font-weight: bold; }
